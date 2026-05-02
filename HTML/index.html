@@ -3,20 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>To-do-list</title>
+    <title>Task manager</title>
     <link rel="stylesheet" href="../CSS/style.css">
 </head>
 <body>
-    <div class="container">
-        <input type="text" id="text_input">
-        <button type="button" onclick="add()">Add</button>
-        <ul id="list-container"></ul>
-        <button onclick="All_task()">All_task</button>
-        <button onclick="Pending_task()">Pending_task</button>
-        <button onclick="Completed_task()">Completed_task</button>
-    </div>
-<script src="../JS/script.js">
-    
-</script>    
+    <header>
+        <h1>Task-Manager</h1>
+        <nav>
+            <ul class="listclass">
+                <li><button onclick="showAll()">ShowAll</button></li>
+                <li><button onclick="pending()">Pending</button></li>
+                <li><button onclick="completed()">Completed</button></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div>
+            <input type="text" placeholder="Enter Your Task..." id="taskInput">
+            <button onclick="add()">Add</button>
+        </div>
+        <div>
+            <ul id="tasklist"></ul>
+        </div>
+    </main>
+    <script src="../JS/new.js"></script>
 </body>
 </html>
