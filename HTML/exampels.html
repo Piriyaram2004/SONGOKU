@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Todo App</title>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .completed { text-decoration: line-through; color: gray; }
+    button { margin-left: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Todo List</h1>
+  <input id="taskInput" type="text" placeholder="Enter a task">
+  <button onclick="addTask()">Add Task</button>
+
+  <div>
+    <button onclick="filterTasks('all')">All</button>
+    <button onclick="filterTasks('pending')">Pending</button>
+    <button onclick="filterTasks('completed')">Completed</button>
+  </div>
+
+  <ul id="taskList"></ul>
+
+  <script src="../JS/examples.js"></script>
+</body>
+</html>
