@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP VICTUS\\OneDrive\\Documents\\C# PRACTISE\\UNICOMbankMyOwnCreation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5C4726-13AC-DE38-B98F-0F41ACFF9A8E}|UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation.csproj|c:\\users\\hp victus\\onedrive\\documents\\c# practise\\unicombankmyowncreation\\unicombankmyowncreation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5C4726-13AC-DE38-B98F-0F41ACFF9A8E}|UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation.csproj|solutionrelative:unicombankmyowncreation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5C4726-13AC-DE38-B98F-0F41ACFF9A8E}|UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation.csproj|c:\\users\\hp victus\\onedrive\\documents\\c# practise\\unicombankmyowncreation\\unicombankmyowncreation\\historyoftrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5C4726-13AC-DE38-B98F-0F41ACFF9A8E}|UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation.csproj|solutionrelative:unicombankmyowncreation\\historyoftrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5C4726-13AC-DE38-B98F-0F41ACFF9A8E}|UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation.csproj|c:\\users\\hp victus\\onedrive\\documents\\c# practise\\unicombankmyowncreation\\unicombankmyowncreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5C4726-13AC-DE38-B98F-0F41ACFF9A8E}|UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation.csproj|solutionrelative:unicombankmyowncreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryofTrans.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Documents\\C# PRACTISE\\UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation\\HistoryofTrans.cs",
+              "RelativeDocumentMoniker": "UNICOMbankMyOwnCreation\\HistoryofTrans.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Documents\\C# PRACTISE\\UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation\\HistoryofTrans.cs",
+              "RelativeToolTip": "UNICOMbankMyOwnCreation\\HistoryofTrans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T17:49:38.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Documents\\C# PRACTISE\\UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation\\BankAccount.cs",
+              "RelativeDocumentMoniker": "UNICOMbankMyOwnCreation\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Documents\\C# PRACTISE\\UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation\\BankAccount.cs",
+              "RelativeToolTip": "UNICOMbankMyOwnCreation\\BankAccount.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T17:40:03.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Documents\\C# PRACTISE\\UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation\\Program.cs",
+              "RelativeDocumentMoniker": "UNICOMbankMyOwnCreation\\Program.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Documents\\C# PRACTISE\\UNICOMbankMyOwnCreation\\UNICOMbankMyOwnCreation\\Program.cs",
+              "RelativeToolTip": "UNICOMbankMyOwnCreation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T13:44:25.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

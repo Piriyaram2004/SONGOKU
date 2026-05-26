@@ -1,0 +1,15 @@
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\bin\Debug\net8.0\UNICOMbankMyOwnCreation.exe
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\bin\Debug\net8.0\UNICOMbankMyOwnCreation.deps.json
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\bin\Debug\net8.0\UNICOMbankMyOwnCreation.runtimeconfig.json
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\bin\Debug\net8.0\UNICOMbankMyOwnCreation.dll
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\bin\Debug\net8.0\UNICOMbankMyOwnCreation.pdb
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\UNICOMbankMyOwnCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\UNICOMbankMyOwnCreation.AssemblyInfoInputs.cache
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\UNICOMbankMyOwnCreation.AssemblyInfo.cs
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\UNICOMbankMyOwnCreation.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\UNICOMbankMyOwnCreation.sourcelink.json
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\UNICOMbankMyOwnCreation.dll
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\refint\UNICOMbankMyOwnCreation.dll
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\UNICOMbankMyOwnCreation.pdb
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\UNICOMbankMyOwnCreation.genruntimeconfig.cache
+C:\Users\HP VICTUS\OneDrive\Documents\C# PRACTISE\UNICOMbankMyOwnCreation\UNICOMbankMyOwnCreation\obj\Debug\net8.0\ref\UNICOMbankMyOwnCreation.dll
